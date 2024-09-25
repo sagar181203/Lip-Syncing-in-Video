@@ -3,7 +3,7 @@ Process to Lip Sync the video with FFMPEG using Blender
 
 
 
-Lip-Sync Video with Wav2Lip
+**#Lip-Sync Video with Wav2Lip**
 This project demonstrates how to perform lip-syncing using Wav2Lip, a model for accurately synchronizing lips in videos to speech audio. The workflow includes text-to-speech synthesis, generating lip-synced videos, and working with models for seamless integration of audio and visual elements.
 
 Prerequisites
